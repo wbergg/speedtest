@@ -1,0 +1,11 @@
+# Built binary
+/speedtest
+
+# Local logs and test output
+*.log
+
+# Editor files
+*.swp
+*~
+.idea/
+.vscode/
